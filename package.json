@@ -1,0 +1,13 @@
+{
+  "name": "test-cosmosdb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/cosmos": "^3.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.3",
+    "typescript": "^3.6.4"
+  }
+}
