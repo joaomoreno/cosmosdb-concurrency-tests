@@ -28,6 +28,9 @@ async function main(): Promise<void> {
 
   const promises = [
     work(id),
+    work(id),
+    work(id),
+    work(id),
     work(id)
   ];
 
